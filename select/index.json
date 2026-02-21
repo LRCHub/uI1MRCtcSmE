@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ミラクル",
+  "base_artist": "Uru",
+  "createdAt": "2026-02-21T10:40:13.238436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hacha-Mecha ミラクル",
+      "artist": "湊あくあ feat. 大空スバル & 兎田ぺこら",
+      "has_synced": true,
+      "path": "select/01_Hacha-Mecha_ミラクル_湊あくあ_feat._大空スバル_&_兎田ぺこら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hacha-Mecha ミラクル",
+      "artist": "湊あくあ/大空スバル/兎田ぺこら",
+      "has_synced": true,
+      "path": "select/02_Hacha-Mecha_ミラクル_湊あくあ_大空スバル_兎田ぺこら.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミラクル☆フライト",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/03_ミラクル☆フライト_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミラクル STAY TUNE!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/04_ミラクル_STAY_TUNE!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミラクル",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/05_ミラクル_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミラクル・ガール",
+      "artist": "永井 真理子",
+      "has_synced": true,
+      "path": "select/06_ミラクル・ガール_永井_真理子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミラクル・ガール",
+      "artist": "永井真理子",
+      "has_synced": true,
+      "path": "select/07_ミラクル・ガール_永井真理子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミラクル・ガール",
+      "artist": "永井真理子",
+      "has_synced": true,
+      "path": "select/08_ミラクル・ガール_永井真理子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミラクル・ガール",
+      "artist": "永井真理子",
+      "has_synced": true,
+      "path": "select/09_ミラクル・ガール_永井真理子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミラクル×パニック?エンドレス",
+      "artist": "ミルキィホームズ",
+      "has_synced": true,
+      "path": "select/10_ミラクル×パニック_エンドレス_ミルキィホームズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミラクル☆マジカル☆ムーンレンジャー",
+      "artist": "篠田はじめ(CV: 戸田めぐみ)× 桜ねね(CV: 朝日奈丸佳)",
+      "has_synced": true,
+      "path": "select/11_ミラクル☆マジカル☆ムーンレンジャー_篠田はじめ(CV__戸田めぐみ)×_桜ねね(CV__朝日奈丸佳).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミラクル☆マジカル☆ムーンレンジャー (Instrumental)",
+      "artist": "篠田はじめ(CV: 戸田めぐみ)× 桜ねね(CV: 朝日奈丸佳)",
+      "has_synced": true,
+      "path": "select/12_ミラクル☆マジカル☆ムーンレンジャー_(Instrumental)_篠田はじめ(CV__戸田めぐみ)×_桜ねね(CV__朝日奈丸佳).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ミラクル・アッパーWL",
+      "artist": "奥井雅美 feat. May’n",
+      "has_synced": false,
+      "path": "select/13_ミラクル・アッパーWL_奥井雅美_feat._May’n.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラクル",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_ミラクル_Uru.txt"
+    }
+  ]
+}
